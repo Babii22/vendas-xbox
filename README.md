@@ -70,9 +70,3 @@ O objetivo deste projeto é demonstrar como o Excel pode ser usado como uma ferr
 - Ajuda a identificar produtos com melhor desempenho
 - Possibilita **análise por canal, período ou região** sem escrever código
 
----
-
-## 📝 Licença
-
-Distribuído sob a **MIT License** — sinta-se livre para usar, modificar e compartilhar!
-
